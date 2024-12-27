@@ -1,5 +1,12 @@
 # @redocly/cli
 
+## 1.26.2
+
+### Patch Changes
+
+- Updated the Redocly CLI command `redocly build-docs` to use `stdout` instead of `stderr` for simple logs.
+- Updated @redocly/openapi-core to v1.26.2.
+
 ## 1.26.1
 
 ### Patch Changes

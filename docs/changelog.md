@@ -7,6 +7,13 @@ toc:
 
 <!-- do-not-remove -->
 
+## 1.26.2 (2024-12-27)
+
+### Patch Changes
+
+- Updated the Redocly CLI command `redocly build-docs` to use `stdout` instead of `stderr` for simple logs.
+- Updated @redocly/openapi-core to v1.26.2.
+
 ## 1.26.1 (2024-12-18)
 
 ### Patch Changes
